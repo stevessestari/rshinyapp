@@ -1,2 +1,2 @@
 # rshinyapp
-Root Finding Methods R Shiny App 
+Root Finding Methods with R Shiny App 
